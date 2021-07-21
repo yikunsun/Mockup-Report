@@ -13,7 +13,9 @@ Brands with brilliant NPS usually tend to grow faster and observe better financi
 trend of NPS, I will also need to investigate areas that cause dissatisfaction.**
 
 **In order to help the leadership understand each property's level of guest satisfaction and to identify any negative trends of NPS, I designed this Guest Satisfaction Report
-with visualizations. All the property names and data are mock for confidentiality.**
+with visualizations.**
+
+**All the property names and data are mock for confidentiality.**
 
 Hope you like the design of this mock report. Thank you!
 
