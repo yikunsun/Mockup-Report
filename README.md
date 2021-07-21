@@ -16,4 +16,5 @@ trend of NPS, I will also need to investigate areas that cause dissatisfaction.*
 with visualizations. All the property names and data are mock for confidentiality.**
 
 Hope you like the design of this mock report. Thank you!
+
 Yikun
